@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ankit Bind 👋</h1>
+<h1 align="center">Hi, I'm Shivam Saxena 👋</h1>
 <h3 align="center">Data Analyst | Data Engineer | Data Scientist</h3>
 
 <p align="center">
@@ -15,16 +15,16 @@
 - Familiar with data pipelines, ETL workflows, and big data tools
 - Actively improving DSA and problem-solving skills
 - Interested in Data Analyst, Data Engineer, and Data Scientist roles
-- 📩 Contact: <a href="mailto:itz.ankitbind01@gmail.com">itz.ankitbind01@gmail.com</a>
+- 📩 Contact: <a href="mailto:shivamsaxena86186@gmail.com">shivamsaxena86186@gmail.com</a>
 
 ---
 
 ### 🔗 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/ankit-bind-518858287" target="_blank">
+  <a href="https://www.linkedin.com/in/shivam-saxena-8910a4296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/itzankit03" target="_blank">
+  <a href="https://x.com/shivam_290901" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Tech_Thoughts-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
