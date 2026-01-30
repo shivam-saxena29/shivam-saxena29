@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ankit Bind 👋</h1>
+<h3 align="center">Data Analyst | Data Engineer | Data Scientist</h3>
 
-<!--
-**shivam-saxena29/shivam-saxena29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Working with data to analyze, engineer, and build intelligent systems.
+</p>
 
-Here are some ideas to get you started:
+<img align="right" width="380" src="./coding.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- Engineering student focused on Data Analytics, Data Engineering, and Data Science
+- Strong hands-on experience with Python, SQL, and real-world datasets
+- Familiar with data pipelines, ETL workflows, and big data tools
+- Actively improving DSA and problem-solving skills
+- Interested in Data Analyst, Data Engineer, and Data Scientist roles
+- 📩 Contact: <a href="mailto:itz.ankitbind01@gmail.com">itz.ankitbind01@gmail.com</a>
+
+---
+
+### 🔗 Connect with Me
+<p>
+  <a href="https://linkedin.com/in/ankit-bind-518858287" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/itzankit03" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Tech_Thoughts-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Data Science • Data Engineering • Data Analytics Stack
+
+#### 🔹 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+#### 🔹 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
