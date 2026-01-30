@@ -5,7 +5,7 @@
   Working with data to analyze, engineer, and build intelligent systems.
 </p>
 
-<img align="right" width="380" src="./"coding.gif"/>
+<img align="right" width="380" src="./coding.gif"/>
 
 ---
 
