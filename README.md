@@ -1,3 +1,8 @@
+<!-- ===================== INTRO SECTION ===================== -->
+<table>
+<tr>
+<td width="60%">
+
 <h1 align="center">Hi, I'm Ankit Bind 👋</h1>
 <h3 align="center">Data Analyst | Data Engineer | Data Scientist</h3>
 
@@ -5,20 +10,29 @@
   Working with data to analyze, engineer, and build intelligent systems.
 </p>
 
-<img align="right" width="380" src="./coding.gif"/>
+</td>
+<td width="40%" align="center">
+
+<img src="./coding.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
 ### 👨‍💻 About Me
-- Engineering student focused on Data Analytics, Data Engineering, and Data Science
-- Strong hands-on experience with Python, SQL, and real-world datasets
-- Familiar with data pipelines, ETL workflows, and big data tools
-- Actively improving DSA and problem-solving skills
-- Interested in Data Analyst, Data Engineer, and Data Scientist roles
+- Engineering student focused on **Data Analytics, Data Engineering, and Data Science**
+- Strong hands-on experience with **Python, SQL, and real-world datasets**
+- Familiar with **data pipelines, ETL workflows, and big data tools**
+- Actively improving **DSA and problem-solving skills**
+- Interested in **Data Analyst, Data Engineer, and Data Scientist roles**
 - 📩 Contact: <a href="mailto:itz.ankitbind01@gmail.com">itz.ankitbind01@gmail.com</a>
 
 ---
 
+<!-- ===================== CONNECT ===================== -->
 ### 🔗 Connect with Me
 <p>
   <a href="https://linkedin.com/in/ankit-bind-518858287" target="_blank">
@@ -31,6 +45,7 @@
 
 ---
 
+<!-- ===================== TECH STACK ===================== -->
 ### 🧠 Data Science • Data Engineering • Data Analytics Stack
 
 #### 🔹 Programming Languages
@@ -93,9 +108,9 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitbind&show_icons=true&theme=radical"/>
@@ -104,4 +119,4 @@
 
 ---
 
-⭐ Focused on building scalable data systems, meaningful analytics, and intelligent models.
+⭐ **Focused on building scalable data systems, meaningful analytics, and intelligent models.**
